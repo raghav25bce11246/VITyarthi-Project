@@ -30,4 +30,4 @@ Steps to Install & Run
 python vittt.py
 
 
-5. Follow the on-screen instructions and enter the required details.
+5. Follow the onscreen instructions and enter the required details.
