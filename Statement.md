@@ -41,4 +41,4 @@ Difficulty in ensuring deadlines
 Inefficient coordination between departments
 
 
-This project helps resolve these issues by creating a structured, automated system that assigns tasks based on employee roles, computes sales targets and incentives, and provides project deadlines automatically using Python logic and date utilities
+This project helps resolve these issues by creating a structured, automated system that assigns tasks based on employee roles, computes sales targets and incentives, and provides project deadlines automatically using Python logic and date utilities.
